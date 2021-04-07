@@ -21,8 +21,4 @@
     <ProjectReference Include="..\BulkyBook.Models\BulkyBook.Models.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
-  </ItemGroup>
-
 </Project>
